@@ -1,5 +1,4 @@
 <?php
-echo "<h1 style='text-align: center;'>Name :Zakarie Yusuf Mohamud Class: BIT27B </h1>";
 echo " <b>1) Question One</b><br>";
 $binary = "11111111"; // Replace with your binary number
 
